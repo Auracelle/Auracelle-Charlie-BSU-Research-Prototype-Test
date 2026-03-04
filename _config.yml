@@ -1,0 +1,17 @@
+title: Auracelle Charlie
+description: >
+  BSU Doctoral Research Instrument — Testing Public Policy Outcomes through 
+  War Gaming Methodologies for Strengthening AI Governance. 
+  E-AGPO-HT v3.1 · Evans, G-A. · Bath Spa University.
+theme: minima
+author: Grace-Alice Evans
+email: EvansAGrace@gmail.com
+
+# GitHub Pages will serve index.html directly — no Jekyll processing needed
+# This config is present for metadata only
+exclude:
+  - README.md
+  - CHANGELOG.md
+  - CITATION.cff
+  - LICENSE
+  - .gitignore
