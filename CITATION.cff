@@ -1,0 +1,64 @@
+cff-version: 1.2.0
+message: "If you use this research instrument, please cite it as below."
+type: software
+title: "Auracelle Charlie: A Wargaming Simulation Instrument for AI Governance Policy Optimisation"
+abstract: >
+  Auracelle Charlie is a browser-based wargaming simulation platform developed 
+  as a doctoral research instrument at Bath Spa University. It operationalises 
+  the Evans Accelerated Governance Policy Optimisation — Hierarchical Theory 
+  (E-AGPO-HT v3.1) framework to test AI governance policy outcomes through 
+  structured multi-actor simulation, multi-agent reinforcement learning, and 
+  adversarial stress-testing with MITRE ATT&CK integration.
+authors:
+  - family-names: Evans
+    given-names: Grace-Alice
+    affiliation: >
+      Auracelle AI Governance Labs; 
+      Bath Spa University (Doctoral Researcher); 
+      UC Berkeley Center for Long-Term Cybersecurity (Non-Resident Senior Fellow)
+    email: EvansAGrace@gmail.com
+version: "BSU Demo v2 · E-AGPO-HT v3.1"
+date-released: "2026-03-01"
+license: CC-BY-NC-ND-4.0
+repository-code: "https://github.com/[username]/auracelle-charlie"
+keywords:
+  - AI governance
+  - wargaming
+  - policy simulation
+  - multi-agent reinforcement learning
+  - E-AGPO-HT
+  - frontier AI
+  - adversarial simulation
+  - MITRE ATT&CK
+  - doctoral research
+  - Bath Spa University
+references:
+  - type: thesis
+    title: >
+      Testing Public Policy Outcomes through War Gaming Methodologies 
+      for Strengthening AI Governance
+    authors:
+      - family-names: Evans
+        given-names: Grace-Alice
+    institution:
+      name: Bath Spa University
+    supervisor:
+      - family-names: Curry
+        given-names: John
+    year: 2024
+  - type: article
+    title: "Can AGPO Close the AI Governance Gap Faster Than Legislation?"
+    authors:
+      - family-names: Evans
+        given-names: Grace-Alice
+    journal: Wargaming Weekly
+    year: 2025
+    url: "https://wargamingweekly.substack.com/p/can-agpo-close-the-ai-governance-gap-faster-than-legislation"
+  - type: article
+    title: "Security and Privacy Risks in an Era of Hybrid Work"
+    authors:
+      - family-names: Evans
+        given-names: Grace-Alice
+    journal: UC Berkeley Center for Long-Term Cybersecurity
+    year: 2021
+    url: "https://cltc.berkeley.edu"
